@@ -8,8 +8,9 @@
     },
     "files": [
         "main.blocks",
+        "README.md",
         "main.ts",
-        "README.md"
+        "EasyLCD.ts"
     ],
     "testFiles": [
         "test.ts"
